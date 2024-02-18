@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav Singh Rathore</h1>
-<h3 align="center">A passionate full stack developer from India (Udaipur)</h3>
+<h3 align="center">A passionate full stack developer from India </h3>
 
 - 💬 Ask me about **React, Next, Angular NodeJS, Flask and AWS**
 <img src="https://media.tenor.com/images/b7939d73d32cb3ce5e48a80dd35dc599/tenor.gif" align="right" />
