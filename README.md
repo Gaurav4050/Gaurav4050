@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaurav Singh Rathore</h1>
 <h3 align="center">A passionate full stack developer from India (Udaipur)</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaurav4050" alt="gaurav4050" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaurav4050" alt="gaurav4050" /></a> </p>
 
 - 💬 Ask me about **React, Next, Angular NodeJS, Flask and AWS**
 
