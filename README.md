@@ -1,4 +1,3 @@
-![logo]()
 <h1 align="center">Hi 👋, I'm Gaurav Singh Rathore</h1>
 <h3 align="center">A passionate full stack developer from India (Udaipur)</h3>
 
